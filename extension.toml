@@ -1,5 +1,5 @@
 id = "dark-glass-theme"
-name = "Dark Glass Theme"
+name = "Transparent Dark Glass Theme"
 version = "0.1.0"
 schema_version = 1
 description = "A translucent dark theme based on Zedokai Darker (Filter Spectrum) with custom blurred backgrounds"

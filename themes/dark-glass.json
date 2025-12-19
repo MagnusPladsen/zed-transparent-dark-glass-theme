@@ -1,9 +1,9 @@
 {
-  "name": "Dark Glass Theme",
+  "name": "Transparent Dark Glass Theme",
   "author": "Magnus Pladsen (based on Zedokai by slymax)",
   "themes": [
     {
-      "name": "Dark Glass",
+      "name": "Transparent Dark Glass",
       "appearance": "dark",
       "style": {
         "background": "#0a0a0ad0",

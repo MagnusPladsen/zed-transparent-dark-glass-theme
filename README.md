@@ -1,4 +1,4 @@
-# Dark Glass Theme
+# Transparent Dark Glass Theme
 
 A translucent dark theme for Zed editor, based on Zedokai Darker (Filter Spectrum) with custom blurred backgrounds and transparency effects.
 
@@ -18,7 +18,7 @@ Once published, you can install this theme directly from Zed:
 1. Open Zed
 2. Press `cmd+shift+p` to open the command palette
 3. Type "extensions" and select "zed: extensions"
-4. Search for "Dark Glass Theme"
+4. Search for "Transparent Dark Glass Theme"
 5. Click Install
 
 ### Manual Installation (Development)
@@ -34,7 +34,7 @@ Once published, you can install this theme directly from Zed:
 After installation:
 
 1. Press `cmd+k, cmd+t` to open theme selector
-2. Search for "Dark Glass"
+2. Search for "Transparent Dark Glass"
 3. Select the theme
 
 Or set it in your settings:
@@ -43,7 +43,7 @@ Or set it in your settings:
 {
   "theme": {
     "mode": "system",
-    "dark": "Dark Glass"
+    "dark": "Transparent Dark Glass"
   }
 }
 ```

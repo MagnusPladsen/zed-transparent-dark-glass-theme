@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 description = "A translucent dark theme based on Zedokai Darker (Filter Spectrum) with custom blurred backgrounds"
 authors = ["Magnus Pladsen <magnus_pladsen@hotmail.com>"]
-repository = "https://github.com/magnuspladsen/dark-glass-theme"
+repository = "https://github.com/MagnusPladsen/zed-transparent-dark-glass-theme"
